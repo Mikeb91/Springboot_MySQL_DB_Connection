@@ -1,0 +1,5 @@
+com\MySqlConnectionTemplate\controllers\UserController.class
+com\MySqlConnectionTemplate\model\domain\jpaEntities\UserEntity.class
+com\MySqlConnectionTemplate\model\domain\User.class
+com\MySqlConnectionTemplate\TemplateMySqlConnectionApplication.class
+com\MySqlConnectionTemplate\repository\UserRepository.class
